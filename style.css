@@ -13,5 +13,6 @@ h1{font-size:28px;line-height:1.2;margin:0 0 8px;font-weight:700}
 .tg{background:var(--sky);color:var(--sky-ink)}
 .wa{background:var(--sage);color:var(--sage-ink)}
 .mx{background:var(--rose);color:var(--rose-ink)}
+.max{background:var(--sand);color:var(--ink)}
 .save{background:transparent;color:var(--soft);font-weight:500;font-size:16px;padding:10px}
 .note{margin:18px 4px 0;padding:14px 16px;background:var(--sand);border-radius:16px;font-size:15px;color:var(--ink);text-align:left}
